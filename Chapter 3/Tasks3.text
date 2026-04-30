@@ -1,0 +1,222 @@
+Basic Exercises
+
+3.1 The sample space S = {E1, E2, E3, E4, E5, E6, E7, E8, E9, E10, E11}.
+Given A = {E5, E6, E7, E8} and B = {E5, E7, E9, E11}.
+a. What is A ∩ B?
+b. What is the union of A and B?
+c. Is the union of A and B collectively exhaustive?
+
+For Exercises 3.2–3.4 use the sample space S defined as follows:
+S = {E1, E2, E3, E4, E5, E6, E7, E8, E9, E10}
+
+3.2 Given A = {E1, E3, E6, E9}, define A.
+
+3.3 Given A = {E1, E4, E5, E7} and B = {E2, E3, E5, E8}.
+a. What is A ∩ B?
+b. What is B?
+c. What is the union of A and B?
+d. Is the union of A and B collectively exhaustive?
+
+3.4 Given A = {E3, E5, E7, E10} and B = {E3, E4, E5, E9}.
+a. What is the intersection of A and B?
+b. What is the union of A and B?
+c. Is the union of A and B collectively exhaustive?
+
+Application Exercises
+
+3.5 A corporation takes delivery of some new machinery that must be installed and checked before it becomes available to use. The corporation is sure that it will take no more than 10 days for this installation and check to take place. Let A be the event "it will be more than 3 days before the machinery becomes available" and B be the event "it will be less than 7 days before the machinery becomes available."
+
+a. Describe the complement of A.
+b. Describe A ∩ B.
+c. Describe A ∪ B.
+d. Are A and B mutually exclusive?
+e. Are A and B collectively exhaustive?
+f. Show that (A ∩ B) ∪ (not A ∩ B) = B.
+g. Show that A ∪ (not A ∩ B) = A ∪ B.
+
+3.6 Consider four outcomes for the Dow Jones over two days:
+O1: rises both days
+O2: rises first day, not second
+O3: not first day, rises second
+O4: does not rise both days
+
+Let:
+A: rises on first day
+B: rises on second day
+
+a. Show that (A ∩ B) ∪ (not A ∩ B) = B.
+b. Show that A ∪ (not A ∩ B) = A ∪ B.
+
+3.7 A car lot has three Mercedes (M1, M2, M3) and two Toyotas (T1, T2).
+Two customers each choose a car independently.
+
+A: at least one Toyota is chosen
+B: both choose the same model
+
+a. List all pairs of cars
+b. Define A
+c. Define B
+d. Define complement of A
+e. Show (A ∩ B) ∪ (not A ∩ B) = B
+f. Show A ∪ (not A ∩ B) = A ∪ B
+
+
+Basic Exercises
+
+3.8 The sample space contains 5 As and 7 Bs. What is the probability that a randomly selected set of 2 will include 1 A and 1 B?
+
+3.9 The sample space contains 8 As and 6 Bs. What is the probability that a randomly selected set of 3 will include 2 As and 1 B?
+
+3.10 The sample space contains 10 As and 6 Bs. What is the probability that a randomly selected set of 4 will include 2 As and 2 Bs?
+
+3.11 In a city of 140,000 people there are 40,000 Norwegians. What is the probability that a randomly selected person from the city will be Norwegian?
+
+3.12 In a city of 180,000 people there are 20,000 legal immigrants from Latin America. What is the probability that a random sample of two people from the city will contain two legal immigrants from Latin America?
+
+Application Exercises
+
+3.13 Sale manager wants to estimate a probability that a car will be returned for a service during the warranty period. The following table shows a manager's probability assessment for the number of returns.
+
+Number of Returns (X)     0      1      2      3      4
+Probability P(X)          0.28   0.36   0.23   0.09   0.04
+
+Let A be the event "the number of returns will be more than two," and let B be the event "the number of returns will be less than four."
+
+a. Find the probability of event A.
+b. Find the probability of event B.
+c. Find the probability of the complement of event A.
+d. Find the probability of the intersection of events A and B.
+e. Find the probability of the union of events A and B.
+
+3.14 A fund manager is considering investing in a new software firm based in India. The manager's assessment of probabilities for rates of return on this stock over the next year is summarized in the accompanying table. Let A be the event "rate of return will be at least 10%" and B be the event "rate of return will be negative."
+
+Rate of return       Less than -10%   -10% to <0%   0% to <10%   10% to <20%   20% or more
+Probability          0.04             0.14          0.28         0.33          0.21
+
+a. Find the probability of event A.
+b. Find the probability of event B.
+c. Describe the event that is the complement of A.
+d. Find the probability of the complement of A.
+e. Describe the event that is the intersection of A and B.
+f. Find the probability of the intersection of A and B.
+g. Describe the event that is the union of A and B.
+h. Find the probability of the union of A and B.
+i. Are A and B mutually exclusive?
+j. Are A and B collectively exhaustive?
+
+3.15 A manager has available a pool of 12 employees who could be assigned to a project editorial task. Of the employees seven are women and five are men. Two of the men are brothers. The manager has to assign the project at random so that each of the 12 employees is equally likely to be chosen. Let A be the event "chosen employee is a man" and B the event "chosen employee is one of the brothers."
+
+a. Find the probability of A.
+b. Find the probability of B.
+c. Find the probability of the intersection of A and B.
+
+
+3.16 If two events are mutually exclusive, we know that the probability of their union is the sum of their individual probabilities. However, this is not the case for events that are not mutually exclusive. Verify this assertion by considering the events A and B of Exercise 3.1.
+
+3.17 A department store manager has monitored the number of complaints received per week about poor service. The probabilities for numbers of complaints in a week, established by this review, are shown in the following table. Let A be the event "there will be at least one complaint in a week" and B the event "there will be fewer than ten complaints in a week."
+
+Number of complaints     0      1 to 3   4 to 6   7 to 9   10 to 12   More than 12
+Probability              0.14   0.39     0.23     0.15     0.06       0.03
+
+a. Find the probability of A.
+b. Find the probability of B.
+c. Find the probability of the complement of A.
+d. Find the probability of the union of A and B.
+e. Find the probability of the intersection of A and B.
+f. Are A and B mutually exclusive?
+g. Are A and B collectively exhaustive?
+
+3.18 A corporation receives a particular part in shipments of 100. Research indicated the probabilities shown in the accompanying table for numbers of defective parts in a shipment.
+
+Number       0      1      2      3      > 3 defective
+Probability  0.29   0.36   0.22   0.10   0.03
+
+a. What is the probability that there will be fewer than three defective parts in a shipment?
+b. What is the probability that there will be more than one defective part in a shipment?
+c. The five probabilities in the table sum to 1. Why must this be so?
+
+Basic Exercises
+
+3.19 The probability of A is 0.30, the probability of B is 0.70, and the probability of either is 0.90. What is the probability of both A and B?
+
+3.20 The probability of A is 0.40, the probability of B is 0.45, and the probability of either is 0.85. What is the probability of both A and B?
+
+3.21 The probability of A is 0.60, the probability of B is 0.40, and the probability of either is 0.76. What is the probability of both A and B?
+
+3.22 The probability of event E1 is 0.54, the probability of event E2 is 0.38, and the probability of both is 0.2. What is the probability of either E1 and E2?
+
+3.23 The probability of A is 0.30, the probability of B is 0.70, and the probability of both is 0.20. What is the conditional probability of A, given B? Are A and B independent in a probability sense?
+
+3.24 The probability of A is 0.80, the probability of B is 0.10, and the probability of both is 0.08. What is the conditional probability of A, given B? Are A and B independent in a probability sense?
+
+3.25 The probability of A is 0.30, the probability of B is 0.40, and the probability of both is 0.30. What is the conditional probability of A given B? Are A and B independent in a probability sense?
+
+3.26 The probability of A is 0.70, the probability of B is 0.10, and the probability of both is 0.50. What is the conditional probability of A, given B? Are A and B independent in a probability sense?
+
+
+Application Exercises
+
+3.27 The following contingency table shows the joint probability distribution of two events A and B.
+
+                B        Not B
+A             0.30       0.20
+Not A         0.10       0.40
+
+a. Find P(A)
+b. Find P(B)
+c. Find P(A ∩ B)
+d. Find P(A ∪ B)
+e. Are A and B independent?
+
+3.28 A survey of households shows the following probabilities:
+
+                Own Home     Rent
+High Income       0.25        0.15
+Low Income        0.20        0.40
+
+a. What is the probability of owning a home?
+b. What is the probability of high income?
+c. What is the probability of owning a home given high income?
+d. Are owning a home and income level independent?
+
+3.29 A manufacturing company produces items in two plants. The probability that an item is produced in Plant 1 is 0.6 and in Plant 2 is 0.4. The probability that an item is defective given it is from Plant 1 is 0.02, and from Plant 2 is 0.05.
+
+a. What is the probability that a randomly selected item is defective?
+b. What is the probability that a defective item came from Plant 2?
+
+3.30 A student takes a multiple-choice exam with 5 questions, each having 4 possible answers. The student guesses on all questions.
+
+a. What is the probability of getting all answers correct?
+b. What is the probability of getting at least one correct?
+
+3.31 A company has three departments: A, B, and C. The probabilities that a randomly selected employee works in these departments are 0.3, 0.5, and 0.2, respectively. The probabilities of being promoted in these departments are 0.10, 0.15, and 0.20.
+
+a. What is the probability that a randomly selected employee is promoted?
+b. What is the probability that a promoted employee works in department B?
+
+
+
+3.32 A company has three machines that produce bolts. Machine 1 produces 30% of the bolts, Machine 2 produces 45%, and Machine 3 produces 25%. The probabilities of producing a defective bolt are 0.01, 0.03, and 0.02 respectively.
+
+a. What is the probability that a randomly selected bolt is defective?
+b. If a bolt is defective, what is the probability that it was produced by Machine 2?
+
+3.33 A diagnostic test for a disease has the following characteristics:
+- Probability of a positive test given the disease is present: 0.95
+- Probability of a negative test given the disease is absent: 0.90
+- Prevalence of the disease in the population: 0.05
+
+a. What is the probability that a randomly selected person tests positive?
+b. If a person tests positive, what is the probability that they actually have the disease?
+
+3.34 A box contains 4 red balls and 6 blue balls. Two balls are drawn at random without replacement.
+
+a. What is the probability that both balls are red?
+b. What is the probability that at least one ball is blue?
+
+3.35 A fair coin is tossed three times.
+
+a. What is the probability of getting exactly two heads?
+b. What is the probability of getting at least one tail?
+
+
